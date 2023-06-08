@@ -15,6 +15,7 @@ class CollegesTableSeeder extends Seeder
     public function run()
     {
         $colleges = [
+            
             [
              'name' => 'Rust',
              'tutor_name' => 'Doe',
